@@ -1,5 +1,5 @@
 # My Portfolio
-Welcome to My portfolio! Her you can find a summary of work samples available through Github.
+Welcome to My portfolio! Here you can find a summary of work samples available through Github.
 
 ## Table Of Contents
 - [Data Analysis Projects](#Data-Analysis)
