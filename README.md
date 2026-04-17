@@ -3,7 +3,7 @@ Welcome to My portfolio! Her you can find a summary of work samples available th
 
 ## Table Of Contents
 - [Data Analysis Projects](#Data-Analysis)
-- [Data Visualization Projects](#Data-Visualization)
+- [Data Visualization Projects](#Data-Visualization) 
 
 ### Data Analysis Projects
 
