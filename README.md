@@ -1,10 +1,10 @@
 # My Portfolio
 Welcome to My portfolio! Her you can find a summary of work samples available through Github.
 
-##Table Of Contents
+## Table Of Contents
 - [Data Analysis Projects](#Data-Analysis)
 
-#Data Analysis Projects
+# Data Analysis Projects
 
 |Project Link|Completion Date | Tools| Project Description|
 |---|---|---|---|
