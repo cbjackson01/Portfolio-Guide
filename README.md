@@ -4,13 +4,13 @@ Welcome to My portfolio! Her you can find a summary of work samples available th
 ## Table Of Contents
 - [Data Analysis Projects](#Data-Analysis)
 - [Data Visualization Projects](#Data-Visualization)
-***
+
 # Data Analysis Projects
 
 |Project Link|Completion Date | Tools| Project Description|
 |---|---|---|---|
 |[CTA Ridership]() | 2026 | Python, Spark, Jupyter Notebook | This project collects and organizes live data from the Chicago CTA tp predict how accurate bus arrival times are in the city of chicago for various routes throughout the Chicago Transit Authority (CTA) |
-***
+
 # Data Visualization Projects
 |Project Link|Completion Date | Tools| Project Description|
 |---|---|---|---|
